@@ -43,8 +43,7 @@ hardware and software.",
  "interests": [
     {
       "name": "internet of things",
-      "keywords": [
-        "Arduino",
+      "keywords": ["Arduino",
         "ESP8266"
       ]
     },
@@ -52,7 +51,7 @@ hardware and software.",
       "name": "Robotics",
       "keywords": ["Mechatronics",
                    "Automation",
-                   "Machining & CNC",
+                   "Machining & CNC"
       ]
     },
     {

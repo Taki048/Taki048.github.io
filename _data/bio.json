@@ -40,12 +40,12 @@ hardware and software.",
       },
     ]
   },
-  "interests": [
+ "interests": [
     {
-      "name": "IOT",
+      "name": "internet of things",
       "keywords": [
         "Arduino",
-        "ESP8266",
+        "ESP8266"
       ]
     },
     {

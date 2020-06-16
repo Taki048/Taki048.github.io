@@ -20,57 +20,44 @@ hardware and software.",
       "countryCode": "IL",
       "region": ""
     },
-    "profiles": [
+   "profiles": [
       {
         "network": "github",
-        "username": "Taki048",
-        "url": "http://github.com/Taki048"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
-  
- 
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
       {
         "network": "instagram",
-        "username": "takihc",
-        "url": "http://instagram.com/takihc"
-      },
-        {
-        "network": "facebook",
-        "username": "takinq",
-        "url": "http://facebook.com/takinq"
-      },
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
- "interests": 
+  "interests": [
     {
       "name": "internet of things",
-      "keywords": ["Arduino",
-        "ESP8266"
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Robotics",
-      "keywords": ["Mechatronics",
-                   "Automation",
-                   "Machining & CNC"
+      "name": "data mining",
+      "keywords": [
       ]
     },
     {
-      "name": "Open Source",
-      "keywords": [
-      ]
-    }
-        {
-      "name": "Electronics and Microcontrollers",
-      "keywords": [
-      ]
-    }
-    {
-      "name": "Embeded Systems",
-      "keywords": [
-      ]
-    }
-    {
-      "name": "Linux",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -80,9 +67,12 @@ hardware and software.",
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
-        "Basic",
-                "HTML & CSS",
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -90,20 +80,20 @@ hardware and software.",
       "level": "",
       "keywords": [
         "MacOS",
-        "Linux",
+        "Ubuntu",
         "Git/GitHub",
-        "Arduino IDE",
-        "Photoshop"
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "MATI, Haifa, Israel",
-      "area": "Business and Entrepreneurship",
-      "studyType": "Course",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]

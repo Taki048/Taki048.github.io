@@ -23,41 +23,37 @@ hardware and software.",
    "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "taki048",
+        "url": "http://github.com/Taki048"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "facebook",
+        "username": "takinq",
+        "url": "http://facebook.com/takinq"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "takihc",
+        "url": "http://instagram.com/takihc"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "IOT",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "ESP8266",
+        "ESP32"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Electronics & Microcontrollers",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Embedded Systems",
       "keywords": [
       ]
     }

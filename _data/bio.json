@@ -45,7 +45,7 @@ hardware and software.",
       "name": "IOT",
       "keywords": [
         "Arduino",
-        "ESP8266"
+        "ESP8266",
       ]
     },
     {

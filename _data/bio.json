@@ -6,7 +6,13 @@
     "email": "taki048@disroot.org",
     "phone": "+972 58-666-0048",
     "website": "Taki048.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "My background, while extensive, is not traditional.
+I Embrace challenges, offer a diverse point of view and a fast learner.
+10+ years of working in the alcohol & nightlife industry, which was my main source income
+and the majority of my jobs were in that industry. My work experience in the field is
+somewhat limited, my interests and personal projects always were technology focused. At
+this point, I am looking to broaden my knowledge and experience in development of both
+hardware and software.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -27,6 +33,11 @@
         "username": "takihc",
         "url": "http://instagram.com/takihc"
       }
+        {
+        "network": "facebook",
+        "username": "takinq",
+        "url": "http://facebook.com/takinq"
+      }
     ]
   },
   "interests": [
@@ -39,11 +50,13 @@
     },
     {
       "name": "Robotics",
-      "keywords": [
+      "keywords": ["Mechatronics",
+                   "Automation",
+                   "Machining & CNC",
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Open Source",
       "keywords": [
       ]
     }
@@ -53,12 +66,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Basic",
+                "HTML & CSS",
       ]
     },
     {
@@ -66,10 +76,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Arduino IDE",
+        "Photoshop"
       ]
     }
   ],

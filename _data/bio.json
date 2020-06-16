@@ -40,7 +40,7 @@ hardware and software.",
       },
     ]
   },
- "interests": [
+ "interests": 
     {
       "name": "internet of things",
       "keywords": ["Arduino",

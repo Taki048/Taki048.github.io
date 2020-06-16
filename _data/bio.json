@@ -95,11 +95,23 @@ hardware and software.",
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "MATI Haifa",
+      "area": "Business and Entrepreneurship",
+      "studyType": "Coure",
+      "startDate": "2018",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion, Haifa",
+      "area": "GED",
+      "studyType": "",
+      "startDate": "2007",
+      "endDate": "",
       "gpa": "",
       "courses": [
       ]
@@ -107,7 +119,7 @@ hardware and software.",
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
